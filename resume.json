@@ -1,0 +1,117 @@
+{
+    "basics": {
+        "name": "Karanveer Sharma",
+        "label": "Student",
+        "picture": "",
+        "email": "2021kucp1082@iiitkota.ac.in",
+        "phone": "+919592728868",
+        "website": "",
+        "summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Computer Science & engineering. Building awesome WebApp. I have enthusiasm in Full Stack development.",
+        "location": {
+            "address": "Amritsar",
+            "postalCode": "143001",
+            "city": "Amritsar",
+            "countryCode": " India",
+            "region": "Punjab"
+        },
+        "profiles": [
+            {
+                "network": "Twitter",
+                "username": "",
+                "url": ""
+            },
+            {
+                "network": "Github",
+                "username": "Karanveer23",
+                "url": "https://github.com/Karanveer23"
+            },
+            {
+                "network": "linkedin",
+                "username": "karanveer sharma",
+                "url": "https://www.linkedin.com/in/karanveer-sharma-333263244/"
+            },
+            {
+                "network": "Instagram",
+                "username": "krnveersharma",
+                "url": "https://instagram.com/krnveersharma"
+            }
+        ]
+    },
+    "work": [
+        {
+            "company": "IIITians Network",
+            "position": "Web Developer",
+            "website": "",
+            "startDate": "",
+            "endDate": "",
+            "summary": ""
+        },
+        {
+            "company": "IIIT Kota",
+            "position": "Web Developer",
+            "website": "https://iiitkota.ac.in",
+            "startDate": "",
+            "endDate": "",
+            "summary": "Worked as a web developer for creating the offical website of IIIT Kota."
+        }
+    ],
+    "education": [
+        {
+            "institution": "Indian Institute of Information Technology,Kota",
+            "area": "Engineering",
+            "studyType": "Bachelor (hons)",
+            "startDate": "",
+            "endDate": "",
+            "gpa": "7.7",
+            "courses": [
+                "Computer Science & Engineering"
+            ]
+        }
+    ],
+    "awards": [
+        {
+            "title": "",
+            "awarder": "",
+            "date": ""
+        }
+    ],
+    "publications": [
+        {
+            "title": "IIIT Kota Website",
+            "details": "Build IIIT Kota Website Using MERN.",
+            "link": "https://iiitkota.ac.in/"
+        },
+        {
+            "title": "",
+            "details": "",
+            "link": ""
+        }
+    ],
+    "skills": [
+        {
+            "name": "Full Stack Development",
+            "level": "Master",
+            "keywords": [
+                "HTML",
+                "CSS",
+                "C/C++"
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Native speaker"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Playing",
+            "keywords": [
+                "Cricket",
+                "chess",
+                "gym"
+            ]
+        }
+    ]
+}
